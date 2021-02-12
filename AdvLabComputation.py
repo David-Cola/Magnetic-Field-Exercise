@@ -1,5 +1,4 @@
 """
-Michael Ray
 File containing code for the advanced lab computational section. 
 This file will contain all the classes and functions needed
 for the questions. They'll then be implemented in a jupyter
